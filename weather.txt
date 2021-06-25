@@ -1,0 +1,11 @@
+C:\Users\ASUS\PycharmProjects\ShapeAIProject\venv\Scripts\python.exe C:/Users/ASUS/PycharmProjects/ShapeAIProject/weather.py
+Enter the city name: delhi
+-------------------------------------------------------------
+Weather Stats for - DELHI  || 25 Jun 2021 | 08:48:26 PM
+-------------------------------------------------------------
+Current temperature is: 28.05 deg C
+Current weather desc  : overcast clouds
+Current Humidity      : 69 %
+Current wind speed    : 5.14 kmph
+
+Process finished with exit code 0
